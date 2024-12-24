@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qIGpEG4miHFDomMbgmVLqFpT2JFKsyj2sAhWrsIxP9qX+BaQLVzRwIfrt/yg+fO4N3VBdQ4Uau1yl4U623g3Fw==",
+  "dgSpecHash": "Y2BQvA3Zl/OW+FcwUd+VKrc4mooIvV4Kbi38NEY/ihxsgsg+WMlSvnx9nSDMbZm46NGSangteHbI6hDNc/4Yeg==",
   "success": true,
-  "projectFilePath": "/home/paul/Documents/CSharp/DailySudokuPWA/DailySudokuPWA.csproj",
+  "projectFilePath": "/home/paul/Documents/StarterCalculator/StarterCalculator/StarterCalculator.csproj",
   "expectedPackageFiles": [
     "/home/paul/.nuget/packages/microsoft.aspnetcore.authorization/6.0.5/microsoft.aspnetcore.authorization.6.0.5.nupkg.sha512",
     "/home/paul/.nuget/packages/microsoft.aspnetcore.components/6.0.5/microsoft.aspnetcore.components.6.0.5.nupkg.sha512",
@@ -33,7 +33,7 @@
     "/home/paul/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/home/paul/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
     "/home/paul/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512",
-    "/home/paul/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/6.0.6/microsoft.netcore.app.runtime.mono.browser-wasm.6.0.6.nupkg.sha512"
+    "/home/paul/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/6.0.36/microsoft.netcore.app.runtime.mono.browser-wasm.6.0.36.nupkg.sha512"
   ],
   "logs": []
 }

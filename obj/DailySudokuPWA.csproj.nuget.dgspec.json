@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/paul/Documents/CSharp/DailySudokuPWA/DailySudokuPWA.csproj": {}
+    "/home/paul/Documents/StarterCalculator/DailySudokuPWA/DailySudokuPWA.csproj": {}
   },
   "projects": {
-    "/home/paul/Documents/CSharp/DailySudokuPWA/DailySudokuPWA.csproj": {
+    "/home/paul/Documents/StarterCalculator/DailySudokuPWA/DailySudokuPWA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/paul/Documents/CSharp/DailySudokuPWA/DailySudokuPWA.csproj",
+        "projectUniqueName": "/home/paul/Documents/StarterCalculator/DailySudokuPWA/DailySudokuPWA.csproj",
         "projectName": "DailySudokuPWA",
-        "projectPath": "/home/paul/Documents/CSharp/DailySudokuPWA/DailySudokuPWA.csproj",
+        "projectPath": "/home/paul/Documents/StarterCalculator/DailySudokuPWA/DailySudokuPWA.csproj",
         "packagesPath": "/home/paul/.nuget/packages/",
-        "outputPath": "/home/paul/Documents/CSharp/DailySudokuPWA/obj/",
+        "outputPath": "/home/paul/Documents/StarterCalculator/DailySudokuPWA/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/paul/.nuget/NuGet/NuGet.Config"
@@ -54,14 +54,15 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.6, 6.0.6]"
+              "version": "[6.0.36, 6.0.36]"
             }
           ],
           "frameworkReferences": {
@@ -69,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/172/sdk/6.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/253/sdk/6.0.428/RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

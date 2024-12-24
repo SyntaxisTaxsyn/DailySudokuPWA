@@ -11,45 +11,45 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = DailySudokuPWA
 build_property.RootNamespace = DailySudokuPWA
-build_property.ProjectDir = /home/paul/Documents/CSharp/DailySudokuPWA/
+build_property.ProjectDir = /home/paul/Documents/StarterCalculator/DailySudokuPWA/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/paul/Documents/CSharp/DailySudokuPWA
+build_property.MSBuildProjectDirectory = /home/paul/Documents/StarterCalculator/DailySudokuPWA
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/paul/Documents/CSharp/DailySudokuPWA/App.razor]
+[/home/paul/Documents/StarterCalculator/DailySudokuPWA/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/paul/Documents/CSharp/DailySudokuPWA/Pages/About.razor]
+[/home/paul/Documents/StarterCalculator/DailySudokuPWA/Pages/About.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/paul/Documents/CSharp/DailySudokuPWA/Pages/Counter.razor]
+[/home/paul/Documents/StarterCalculator/DailySudokuPWA/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/paul/Documents/CSharp/DailySudokuPWA/Pages/FetchData.razor]
+[/home/paul/Documents/StarterCalculator/DailySudokuPWA/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/paul/Documents/CSharp/DailySudokuPWA/Pages/Index.razor]
+[/home/paul/Documents/StarterCalculator/DailySudokuPWA/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/paul/Documents/CSharp/DailySudokuPWA/Shared/SurveyPrompt.razor]
+[/home/paul/Documents/StarterCalculator/DailySudokuPWA/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/paul/Documents/CSharp/DailySudokuPWA/_Imports.razor]
+[/home/paul/Documents/StarterCalculator/DailySudokuPWA/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/paul/Documents/CSharp/DailySudokuPWA/Shared/MainLayout.razor]
+[/home/paul/Documents/StarterCalculator/DailySudokuPWA/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-lpgt9zhh4e
 
-[/home/paul/Documents/CSharp/DailySudokuPWA/Shared/NavMenu.razor]
+[/home/paul/Documents/StarterCalculator/DailySudokuPWA/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-bbig17bacd
